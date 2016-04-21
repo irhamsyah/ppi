@@ -1,0 +1,79 @@
+.headertable {
+	background-color: #F9F;
+	font-family: "Comic Sans MS", cursive;
+}
+.nama {
+	width: 300px;
+	background-color: #FFF;
+	border-top-color: #FFF;
+	border-right-color: #FFF;
+	border-bottom-color: #FFF;
+	border-left-color: #FFF;
+}
+.id1 {
+	background-color: #00FF66;
+}
+.bpr {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #990000;
+	background-color: #99CC66;
+}
+.colomatas {
+	background-color: #9999CC;
+	font-size: 18px;
+	height: 2px;
+	width: 1px;
+	position: static;
+	top: 20px;
+	clip: rect(20px,auto,auto,auto);
+}
+.isian {
+	background-color: #FFCC66;
+}
+.keterangan {
+	height: 150px;
+	width: 400px;
+	position: static;
+	
+}
+.keterangan2 {
+	width: 400px;
+}
+.cmdadd {
+	width: 3cm;
+	height: 1cm;
+	position: relative;
+	left: 6cm;
+}
+.cmdedit {
+	height: 1cm;
+	width: 3cm;
+	position: relative;
+	left: 60mm;
+}
+.cmddelete {
+	height: 1cm;
+	width: 3cm;
+	left: 60mm;
+	position: relative;
+}
+.judulheader {
+	background-color: #000;
+	color: #FFF;
+}
+.atasan {
+    padding-top: 10%;
+	
+}
+.judulform {
+	color: #33F;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	border-top-color: #FC9;
+	border-right-color: #FC9;
+	border-bottom-color: #FC9;
+	border-left-color: #FC9;
+}
+.teksarea{
+    padding-left: 10%;
+    color:#FC9;
+}
