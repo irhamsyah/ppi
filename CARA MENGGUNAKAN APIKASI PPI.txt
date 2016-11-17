@@ -1,0 +1,4 @@
+Buat database dengan Nama : database
+kemudian import file database.sql melalui XAMPP anda
+
+selamat mencoba
